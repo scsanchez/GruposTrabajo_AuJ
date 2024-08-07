@@ -8,13 +8,13 @@ import typescriptIcon from "/icons/typescript.svg";
 import javascriptIcon from "/icons/javascript.svg";
 
 const techIcons = [
+  { name: "html", image: htmlIcon },
+  { name: "css", image: cssIcon },
+  { name: "javascript", image: javascriptIcon },
+  { name: "typescript", image: typescriptIcon },
   { name: "react", image: reactIcon },
   { name: "git", image: gitIcon },
   { name: "github", image: githubIcon },
-  { name: "html", image: htmlIcon },
-  { name: "css", image: cssIcon },
-  { name: "typescript", image: typescriptIcon },
-  { name: "javascript", image: javascriptIcon },
 ];
 
 export const Technologies = () => {
