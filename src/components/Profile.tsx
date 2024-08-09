@@ -4,14 +4,13 @@ const Profile = () => {
   return (
     <div className="parent-container">
       <div className="container">
+        <h2>¿Por qué deseo formar parte de los grupos Frontend?</h2>
+      </div>
+      <div className="container">
         <p>
           Soy <strong>Sergio</strong>, un{" "}
           <strong>desarrollador web junior</strong> con un perfil Full Stack
-          entusiasmado por la programación. A través del{" "}
-          <strong>bootcamp de 4Geeks Academy</strong> y una acogedora
-          experiencia profesional, he tenido contacto con tecnologías como{" "}
-          <strong>Javascript, React, Flux, Python, Flask, Jest</strong> y{" "}
-          <strong>PostgreSQL</strong>.
+          apasionado por aprender.
         </p>
 
         <p>

@@ -6,7 +6,7 @@ import Profile from "./components/Profile";
 
 function App() {
   return (
-    <>
+    <div className="app-container">
       <BrowserRouter>
         <div className="nav-links">
           <Link to="/" style={{ marginRight: "10px" }}>
@@ -25,10 +25,10 @@ function App() {
         <Routes>
           <Route path="/" element={<Profile />} />
           <Route path="/technologies" element={<Technologies />} />
-          <Route path="/proyects" element={<Projects/>} />
+          <Route path="/proyects" element={<Projects />} />
         </Routes>
       </BrowserRouter>
-    </>
+    </div>
   );
 }
 
