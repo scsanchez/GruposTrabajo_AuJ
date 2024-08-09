@@ -20,13 +20,13 @@ const techIcons = [
 export const Technologies = () => {
   return (
     <>
-      {" "}
+      <div className="container">
+        <h2>¿Cuales son las tecnologías que utilizo para el diseño Front?</h2>
+      </div>
       <div className="tech-container">
-        <h1>¿Cuales son las tecnologías que utilizo para el diseño Front?</h1>
-
         {techIcons.map((logo, index) => (
           <div key={index} className="card">
-            <img src={logo.image} alt={logo.name} />
+            <img src={logo.image} alt={logo.name} className="tech-icon" />
           </div>
         ))}
       </div>
