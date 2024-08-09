@@ -1,27 +1,33 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import "./Projects.css";
+
+interface Repository {
+  id: number;
+  name: string;
+  html_url: string;
+}
 
 const userName = "scsanchez";
 
-export const getRepositoriesByUserName = (userName) => {
+export const getRepositoriesByUserName = (userName: string) => {
   const repositoriesURL = `https://api.github.com/users/${userName}/repos`;
 
   return fetch(repositoriesURL).then(onResponse).catch(onError);
 };
 
-const onResponse = (response) => {
+const onResponse = (response: any) => {
   if (!response.ok) {
     throw Error(response.status);
   }
   return response.json();
 };
 
-const onError = (error) => {
+const onError = (error: any) => {
   console.error("Looks like there was a problem: ", error);
 };
 
 export const Projects = () => {
-  const [repositories, setRepositories] = useState([]);
+  const [repositories, setRepositories] = useState<Repository[]>([]);
 
   useEffect(() => {
     getRepositoriesByUserName(userName)
