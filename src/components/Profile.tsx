@@ -8,30 +8,30 @@ const Profile = () => {
       </div>
       <div className="container">
         <p>
-          Soy <strong>Sergio</strong>, un{" "}
-          <strong>desarrollador web junior</strong> con un perfil Full Stack
-          apasionado por aprender.
+          Mi nombre es <strong>Sergio</strong>. Soy un desarrollador web junior
+          con un perfil <strong>Full Stack</strong>.
         </p>
 
         <p>
-          Mantengo un enorme interés en desarrollarme a través de los{" "}
-          <strong>principios SOLID</strong> como un compromiso con la{" "}
-          <strong>excelencia técnica</strong> y la creación de código robusto y
-          escalable.
+          Tengo una enorme pasión por aprender. Pienso que el{" "}
+          <strong>conocimiento multidisciplinar</strong> aporta una apertura de
+          miras <strong>creativa e innovadora</strong>. Es entre
+          la biología, la música, la filosofía, la danza y el teatro donde también me
+          encuentro.
         </p>
 
         <p>
-          Pienso que el conocimiento multidisciplinar aporta una apertura de
-          miras <strong>creativa e innovadora</strong>. Es entre la{" "}
-          <strong>música, la filosofía, la danza</strong> y el{" "}
-          <strong>teatro</strong> donde también me encuentro.
+          Me encantaría desarrollarme profesionalmente teniendo siempre como
+          referencia los <strong>principios SOLID</strong> como compromiso con
+          la <strong>excelencia técnica</strong> y la creación de código robusto
+          y escalable.
         </p>
 
         <p>
-          Busco <strong>oportunidades</strong> para unirme a equipos{" "}
-          <strong>dinámicos y creativos</strong> donde pueda seguir
-          desarrollándome, aportar mi experiencia, aprender de otros, así como
-          colaborar en la resolución de cualquier desafío.
+          Busco la <strong>oportunidad</strong> de seguir desarrollándome
+          profesionalmente participando en grupos{" "}
+          <strong>dinámicos y creativos</strong> donde pueda aprender de otros,
+          así como colaborar en la resolución de cualquier desafío.
         </p>
       </div>
     </div>
