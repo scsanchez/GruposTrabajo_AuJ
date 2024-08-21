@@ -1,30 +1,23 @@
-# React + TypeScript + Vite
+### Semana 1:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- [x] Crea un repositorio en GitHub donde muestres con código sencillo por qué deseas formar parte de los grupos de trabajo de Frontend. 
 
-Currently, two official plugins are available:
+- [x] Comparte tu usuario de GitHub y el acceso al repositorio con nosotros para poder seguir tus avances.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Semana 2:
 
-## Expanding the ESLint configuration
+- [x] Colaboración: Solicita una colaboración dentro de tu repositorio.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- [x] Crea una issue que alguien más deba resolver en otra rama.
 
-- Configure the top-level `parserOptions` property like this:
+- [ ]  Documenta cómo debe realizarse la issue y, una vez resuelta, acepta la pull request (PR).
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+### Semana 3:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- [ ] Después de aceptar la PR, crea un archivo README.
+
+- [ ]  Documenta lo que has creado, las contribuciones que te han realizado y explica por qué deberías ser seleccionado para los grupos de trabajo de Frontend.
+
+### Semana 4:
+
+- [ ] Graba una pequeña presentación en Loom explicando por qué tú debes estar en los grupos de trabajo de Frontend.
