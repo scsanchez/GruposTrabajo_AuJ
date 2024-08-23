@@ -37,9 +37,9 @@ export const Projects = () => {
 
   return (
     <>
-      <div className="centered-container">
-        <h1>Mis repositorios de GitHub:</h1>
-        <div>
+      <div>
+        <h1 className="title">Mis repositorios de GitHub:</h1>
+        <div className="centered-container">
           <ul>
             {repositories.map((repo) => (
               <p key={repo.id}>

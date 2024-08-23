@@ -19,7 +19,7 @@ const techIcons = [
 
 export const Technologies = () => {
   return (
-    <>
+    <div className="parent-container-tech">
       <div className="container">
         <h2>¿Cuales son las tecnologías que utilizo para el diseño Front?</h2>
       </div>
@@ -30,7 +30,7 @@ export const Technologies = () => {
           </div>
         ))}
       </div>
-    </>
+    </div>
   );
 };
 
