@@ -10,11 +10,11 @@
 
 - [x] Crea una issue que alguien más deba resolver en otra rama.
 
-- [ ]  Documenta cómo debe realizarse la issue y, una vez resuelta, acepta la pull request (PR).
+- [x]  Documenta cómo debe realizarse la issue y, una vez resuelta, acepta la pull request (PR).
 
 ### Semana 3:
 
-- [ ] Después de aceptar la PR, crea un archivo README.
+- [x] Después de aceptar la PR, crea un archivo README.
 
 - [ ]  Documenta lo que has creado, las contribuciones que te han realizado y explica por qué deberías ser seleccionado para los grupos de trabajo de Frontend.
 
