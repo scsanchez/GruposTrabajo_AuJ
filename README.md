@@ -16,7 +16,7 @@
 
 - [x] Después de aceptar la PR, crea un archivo README.
 
-- [ ]  Documenta lo que has creado, las contribuciones que te han realizado y explica por qué deberías ser seleccionado para los grupos de trabajo de Frontend.
+- [x]  Documenta lo que has creado, las contribuciones que te han realizado y explica por qué deberías ser seleccionado para los grupos de trabajo de Frontend.
 
 ### Semana 4:
 
