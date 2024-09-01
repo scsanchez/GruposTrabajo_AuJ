@@ -1,10 +1,11 @@
 # 🚀 Proyecto Web - Grupo de Trabajo Frontend
 
 - [Descripción del Proyecto](#descripción-del-proyecto)
+- [Colaboraciones](#colaboraciones)
 - [Sobre Mí](#sobre-mí)
 - [Grupos de Trabajo](#grupos-de-trabajo)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Mejoras Futuras](#mejoras-futuras)
+- [Tareas](#tareas)
 
 ---
 
@@ -12,7 +13,7 @@
 
 [Enlace al proyecto](https://grupodetrabajo-scsanchez.netlify.app/)
 
-Este proyecto es el resultado de mi participación en un grupo de trabajo dedicado al desarrollo frontend. La idea central era crear una aplicación web moderna utilizando tecnologías actuales y buenas prácticas de desarrollo. El sitio ofrece una navegación fluida a través de diferentes secciones, cada una diseñada para ser intuitiva y fácil de usar.
+Este proyecto es el resultado de mi participación en la segunda convocatoria de los Grupos de Trabajo de Adopta un Junior dedicado al desarrollo frontend. La idea central era crear una aplicación web moderna utilizando tecnologías actuales y buenas prácticas de desarrollo. El sitio ofrece una navegación fluida a través de diferentes secciones, cada una diseñada para ser intuitiva y fácil de usar.
 
 El proyecto se desarrolló con React y TypeScript, utilizando Vite como herramienta de construcción y React Router para gestionar la navegación entre páginas. La arquitectura del código se organizó de manera que sea fácil de mantener y escalar en el futuro. Se han implementado componentes reutilizables, y se ha prestado especial atención a la accesibilidad y al diseño responsive.
 
@@ -20,6 +21,15 @@ El proyecto se desarrolló con React y TypeScript, utilizando Vite como herramie
 ![Tecnologías](./images/readme/Technologies.webp)
 ![Proyectos](./images/Projects.webp)
 
+## Colaboraciones
+
+1. He recibido la colaboración de Lucia ([GitHub](https://github.com/luquiceno)) para la realización de la siguiente issue que fue elevada a PR y mergeada en mi repositorio: [Issue #3](https://github.com/scsanchez/GruposTrabajo_AuJ/issues/3).
+
+2. He colaborado en la resolución de las siguientes issues:
+    - Lucia ([GitHub](https://github.com/luquiceno)): [Pull Request #5](https://github.com/luquiceno/junior-grupo-frontend/pull/5#event-14009835992)
+    - Marta ([GitHub](https://github.com/marta-vilaseca)): [Pull Request #2](https://github.com/marta-vilaseca/adoptaunjunior/pull/2)
+
+---
 
 ### Funcionalidades destacadas
 
@@ -47,15 +57,6 @@ Mi desarrollo en el mundo del frontend ha sido un camino lleno de aprendizajes y
 
 ---
 
-## Mejoras Futuras
-
-- [ ] **Implementación de Tests**: Añadir pruebas unitarias y de integración utilizando Jest y React Testing Library.
-- [ ] **Optimización de Rendimiento**: Mejorar la carga de imágenes y recursos para una mejor experiencia de usuario.
-- [ ] **SEO y Accesibilidad**: Asegurarse de que la aplicación sea accesible y optimizada para motores de búsqueda.
-- [ ] **Animaciones y Transiciones**: Integrar animaciones suaves y transiciones para mejorar la experiencia visual.
-
----
-
 ## Sobre Mí
 
 **Descripción:** Soy un desarrollador frontend con un enfoque en la creación de interfaces de usuario eficientes y atractivas. Mi objetivo es seguir aprendiendo y evolucionando en este campo tan dinámico.
@@ -70,7 +71,8 @@ Mi desarrollo en el mundo del frontend ha sido un camino lleno de aprendizajes y
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
 
-
+---
+## Tareas
 
 ### Semana 1:
 
