@@ -16,7 +16,7 @@ Este proyecto es el resultado de mi participación en la segunda convocatoria de
 
 El proyecto se desarrolló con React y TypeScript, utilizando Vite como herramienta de construcción y React Router para gestionar la navegación entre páginas. La arquitectura del código se organizó de manera que sea fácil de mantener y escalar en el futuro. Se han implementado componentes reutilizables, y se ha prestado especial atención a la accesibilidad y al diseño responsive.
 
-![Pantalla Principal](src\images\readme\Home.webp)
+![Pantalla Principal](src/images/readme/Home.webp)
 ![Tecnologías](src\images\readme\Technologies.webp)
 ![Proyectos](src\images\readme\Projects.webp)
 
